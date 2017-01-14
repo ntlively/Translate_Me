@@ -32,7 +32,17 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
+sample
+{
+  background-color: #ffffff;
+  width: 100%;
+}
+mymessage
+{
+  display: block;
+  background-color: #999999;
+  margin-bottom: 30pt;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
